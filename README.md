@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 ##Project Screenshots
-https://drive.google.com/file/d/1nWia4wfmgVC4Jiqqru5eScYwUrBcuv-6/view?usp=drive_link
+https://drive.google.com/drive/folders/16DvfA-N_qTsWG_jcI9UPrBF6IEM1u-HZ?usp=drive_link
 
  
 ## ⚠️ DISCLAIMER
