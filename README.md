@@ -226,8 +226,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For any questions or suggestions, please reach out to:
-- Email: contact@medconsult.com
-- Website: https://medconsult.com
+- Email: chaitanya.rathod811@gmail.com
+
 
 ---
 
