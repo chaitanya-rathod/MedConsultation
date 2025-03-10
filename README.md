@@ -3,7 +3,10 @@
 ![MedConsult Logo](https://img.shields.io/badge/MedConsult-Telemedicine%20Platform-00796b)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
+##Project Screenshots
+https://drive.google.com/file/d/1nWia4wfmgVC4Jiqqru5eScYwUrBcuv-6/view?usp=drive_link
 
+ 
 ## ⚠️ DISCLAIMER
 
 **EDUCATIONAL PURPOSE ONLY**
