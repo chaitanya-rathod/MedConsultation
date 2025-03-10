@@ -1,9 +1,12 @@
 # MedConsult - Medical Consultation Platform
 
 ![MedConsult Logo](https://img.shields.io/badge/MedConsult-Telemedicine%20Platform-00796b)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
+##Project Screenshots
+https://drive.google.com/drive/folders/16DvfA-N_qTsWG_jcI9UPrBF6IEM1u-HZ?usp=drive_link
+
+ 
 ## ⚠️ DISCLAIMER
 
 **EDUCATIONAL PURPOSE ONLY**
@@ -226,8 +229,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For any questions or suggestions, please reach out to:
-- Email: contact@medconsult.com
-- Website: https://medconsult.com
+- Email: chaitanya.rathod811@gmail.com
+
 
 ---
 
